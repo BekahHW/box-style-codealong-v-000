@@ -291,7 +291,13 @@ background: linear-gradient(
   text-transform: uppercase;
   color: black;
   text-align: center;
+  border-right: 1px solid #ccc
+  text-decoration-style: none;
+  font: 1em "Trebuchet MS", Arial, sans-serif;
+
 }
+
+#navbar 
 
 /*////////// LOGO //////////*/
 
